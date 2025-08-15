@@ -1,6 +1,6 @@
 ---
-title: 'Xin Zhao Gets a Fresh Look in League of Legends'
-description: 'Xin Zhao, the Seneschal of Demacia, is receiving a visual update in League of Legends, along with the return of some older skins.'
+title: “Xin Zhao Gets a Fresh Look in League of Legends”
+description: "Xin Zhao, the Seneschal of Demacia, is receiving a visual update in League of Legends, along with the return of some older skins."
 date: 2025-08-15T04:00:59.792-04:00
 authors: ['C']
 featured: false
