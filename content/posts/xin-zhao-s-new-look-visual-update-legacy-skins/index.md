@@ -1,8 +1,8 @@
 ---
-title: 'Xin Zhao's New Look: Visual Update & Legacy Skins'
-description: 'League of Legends' Xin Zhao is getting a visual update, along with the return of some rare, older skins!'
+title: "Xin Zhao's New Look: Visual Update & Legacy Skins"
+description: "League of Legends' Xin Zhao is getting a visual update, along with the return of some rare, older skins!"
 date: 2025-08-15T02:59:52.847-04:00
-authors: ['C']
+authors: ["C"]
 featured: false
 draft: false
 pinned: false
@@ -17,6 +17,7 @@ sitemap:
   priority: 0.9
   changefreq: daily
 ---
+
 
 # ✨ Xin Zhao Gets a Fresh Look in League of Legends! ✨
 
